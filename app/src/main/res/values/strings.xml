@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exchange Rates</string>
+    <string name="search_by_currency_code">Search by currency code</string>
+    <string name="conversion_to">Conversion %1$s</string>
+    <string name="nothing_found">Nothing found</string>
+    <string name="getting_exchange_rates_error">Getting exchange rates error</string>
+    <string name="try_again">Try again</string>
+</resources>
